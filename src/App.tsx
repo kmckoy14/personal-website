@@ -1,12 +1,13 @@
 import Header from "./components/Header/Header"
+import About from "./components/About/About"
 
 function App() {
 
 
   return (
     <>
-      <Header />
-      
+     <h1>Hello</h1>
+    
       
     </>
   )

@@ -2,9 +2,9 @@
 
 const About = () => {
   return (
-    <div>
+    <section>
       
-    </div>
+    </section>
   )
 }
 
