@@ -3,6 +3,7 @@
 .header{
     background-color: var(--primary-color);
     padding: 20px 0;
+    position: sticky;
 }
 
 .header nav{
