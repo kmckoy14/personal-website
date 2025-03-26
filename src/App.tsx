@@ -8,7 +8,8 @@ function App() {
   return (
     <>
       <Header />
-      <Hero/>
+      <Hero />
+      <About />
      
     
       
