@@ -35,5 +35,6 @@
 
     &:hover{
         color: var(--secondary-color);
+        transform: translateY(-1px);
     }
 }
